@@ -68,3 +68,35 @@ a{
     color:#E5E7EB ;
     border-radius: 15%;
 }
+.content-title{
+ text-align: center;
+ font-size: 36px;
+ font-weight: 800;
+ color:#1F2937;
+}
+.content-image-container{
+    display: flex;
+    justify-content: center;
+    gap:1em;
+}
+.content-image{
+    margin: 1em;
+    height: 200px;
+    width: 200px;
+    border:3px solid #3882F6;
+    border-radius: 10%;
+}
+.content-text-container{
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    gap:1em;
+}
+.content-text{
+    height: 200px;
+    width: 200px;
+    margin:1em;
+
+}
+
