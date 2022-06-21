@@ -70,6 +70,7 @@ a{
     border-radius: 15%;
 }
 .content-title{
+ margin:5rem;
  text-align: center;
  font-size: 36px;
  font-weight: 800;
