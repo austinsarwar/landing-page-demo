@@ -100,4 +100,26 @@ a{
     margin:1em;
 
 }
-
+.quote-container{
+    padding:5rem;
+    display: flex;
+    flex-direction: column;
+    background: #E5E7EB;
+    
+}
+.quote{
+   
+    text-align: center;
+    
+    
+    font-size:36px;
+    font-style: italic;
+    color:#1F2937;
+}
+.author{
+    padding: 1rem;
+    margin-left:auto;
+    color:#1F2937;
+    font-size:20px;
+    font-weight: 800;
+}
