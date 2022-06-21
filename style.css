@@ -54,9 +54,9 @@ body{
 }
 .banner-image{
     margin:1em;
-    height: 200px;
+    height: auto;
     width: 400px;
-    border: 3px solid red;
+    background: gray;
 }
 a{
     text-decoration: none;
