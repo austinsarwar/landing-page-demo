@@ -8,7 +8,7 @@ body{
     min-height: 100vh;
 }
 .header{
-    
+   
     color: #F9FAF8;
     font-size: 24px;
     background: #1F2937;
@@ -30,6 +30,7 @@ body{
    color: #E5E7EB;
 }
 .banner{
+    margin:3em;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
