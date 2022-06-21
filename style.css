@@ -129,3 +129,24 @@ a{
     background: #1F2937;
     color: #F9FAF8;
 }
+.action-container{
+    gap:1em;
+    padding: 3rem;
+    margin:5rem;
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    color: #E5E7EB ;
+    border-radius: 25px;
+}
+.action-title{
+    font-size:25px;
+    font-weight: 800;
+}
+.action-button{
+    width: 150px;
+    border-radius: 25px;
+    color: white;
+    border: 3px solid #E5E7EB ;
+    background-color: transparent;
+}
