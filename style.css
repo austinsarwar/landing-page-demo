@@ -85,7 +85,7 @@ a{
     gap:1em;
     flex-wrap:wrap;
 }
-.content-image{
+.content-image img{
     margin: 1em;
     height: 200px;
     width: 200px;
