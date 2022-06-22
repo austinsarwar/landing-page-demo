@@ -85,23 +85,35 @@ a{
     gap:1em;
     flex-wrap:wrap;
 }
+
 .content-image img{
     margin: 1em;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     border:3px solid #3882F6;
     border-radius: 10%;
+}
+.content-image:hover{
+    
+        color: #111;
+        background:#3882F6;
+        box-shadow: 0 0 100px #3882F6;
+    
 }
 .content-text-container{
 
     display:flex;
     flex-wrap:wrap;
     justify-content: center;
+ 
     gap:1em;
 }
 .content-text{
-    height: 200px;
-    width: 200px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 500;
+    height: 300px;
+    width: 300px;
     margin:1em;
 
 }
