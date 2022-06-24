@@ -57,9 +57,8 @@ body{
 }
 .banner-image img{
     margin:1em;
-    height: 500px;
-    width: 500px;
-    object-fit: cover;
+    height: 300px;
+    width: 300px;
     
 }
 
@@ -93,7 +92,7 @@ a{
     width: 300px;
     border:3px solid #3882F6;
     border-radius: 10%;
-    object-fit: cover;
+    object-fit:cover;
 }
 .content-image:hover{
     
