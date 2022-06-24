@@ -57,8 +57,9 @@ body{
 }
 .banner-image img{
     margin:1em;
-    height: 300px;
-    width: 300px;
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
     
 }
 
