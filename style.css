@@ -92,6 +92,7 @@ a{
     width: 300px;
     border:3px solid #3882F6;
     border-radius: 10%;
+    object-fit: cover;
 }
 .content-image:hover{
     
